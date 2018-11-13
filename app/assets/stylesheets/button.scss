@@ -1,0 +1,52 @@
+.btn-blue {
+    color: #fff;   
+    border-color:#f05D23;
+    background-color :#f05D23;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+.btn-blue:hover {
+    background-color: #dd2780;
+    border-color:#dd2780;
+}
+
+
+.card-footer a {
+    color: hotpink;
+    border-color:#ff1f5a;
+    background-color: #ff1f5a;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+
+#instagram {
+    padding-bottom: 20px;
+}
+
+#instagram img {
+    width: 30px;
+}
+
+
+#facebook {
+    padding-bottom: 20px;
+}
+
+#facebook img {
+    width: 30px;
+}
+
+.footer {
+    position: fixed;
+}
+
