@@ -1,24 +1,21 @@
-# README
+🔧 Guide Installation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+$git clone https://github.com/axelletrt/scrapping_oklm.git
 
-Things you may want to cover:
+$sudo bundle install
 
-* Ruby version
+$rails db:create
 
-* System dependencies
+$rails db:migrate
 
-* Configuration
+$rails server
 
-* Database creation
 
-* Database initialization
+Ce chef d'oeuvre est à regarder en Local ! :heart:
 
-* How to run the test suite
+Open localhost 3000 :computer:
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+Mon lien en production ne veut pas afficher les images, si tu sais comment faire :) https://minionhehe.herokuapp.com/
