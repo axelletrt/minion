@@ -1,6 +1,6 @@
 🔧 Guide Installation
 
-$git clone https://github.com/axelletrt/scrapping_oklm.git
+$git clone https://github.com/axelletrt/minion.git
 
 $sudo bundle install
 
